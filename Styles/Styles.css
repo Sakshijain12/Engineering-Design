@@ -1,0 +1,96 @@
+body{
+    background-color:#DEEDF0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.home{
+    height:20px;
+    background-color: #C84B31;
+    padding:20px;
+    /*position: fixed;*/    
+}
+
+.heading{
+    color: cornsilk;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    position: fixed;
+}
+
+nav{
+    float:right;
+}
+
+.option{
+    position: relative;
+}
+
+.bigphoto{
+    
+}
+
+.inter{
+    position: absolute;
+    width:300px;
+    height:150px;
+    top:500px;
+    left:900px;
+    color: #7D5A50;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center ;
+}
+
+#atlas{
+    background-color: cornsilk;
+}
+
+.photo{
+    height:200px;
+    width:20%;
+    margin:2% 2% 0% 2%;
+}
+
+.about{
+    height:50px;
+    width:20%;
+    margin:0% 2% 2% 2%;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.xyz{
+    color:#2F5D62;
+}
+
+.info{
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold ;
+    margin-bottom: 0;
+}
+
+hr{
+    height:0px ;
+    border:solid 2px;
+    width:20%;
+    border-style:dashed;
+    border-width: 4px;
+    border-color:#2F5D62;
+}
+
+.end{
+    height: 60px;
+    width:100%;
+    margin-left:10px;
+    margin-right: 10px;
+    background-color:#2F5D62;
+    color: white;
+}
